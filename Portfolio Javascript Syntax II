@@ -71,8 +71,8 @@ case 3:
     group = metallica.band;
     break;
 case 4:
-    rola = aerosmith.songs[rnd];
-    group = aerosmith.band;
+    rola = U2.songs[rnd];
+    group = U2.band;
     break;
 }
 console.log(rola + ' --' + group)          
